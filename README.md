@@ -2,7 +2,7 @@
 🔹 Passionate about building scalable backend systems & exploring AI applications
 
 
-👋 Hello! I'm [Your Name]
+👋 Hello! I'm Bismark Obuobi
 🚀 Backend Developer | 🤖 AI & ML Enthusiast | 📡 API Architect
 
 🔭 Currently building scalable APIs & microservices
@@ -26,5 +26,5 @@ AI & ML Projects
 🤖 Image Classifier – CNN-based image classification using TensorFlow
 🏆 NLP Chatbot – AI-powered chatbot for customer support
 💬 Let's Connect!
-📧 Email: your.email@example.com
+📧 Email: bismarkobuobi19@gmail.com
 🔗 LinkedIn | Twitter | Portfolio
