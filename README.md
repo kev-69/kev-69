@@ -1,5 +1,5 @@
-🧠 Backend Developer | AI & ML Enthusiast
-🔹 Passionate about building scalable backend systems & exploring AI applications
+🧠 Backend Developer | AI & ML Enthusiast <br />
+🔹 Passionate about building scalable backend systems & exploring AI applications <br />
 
 
 👋 Hello! I'm Bismark Obuobi
