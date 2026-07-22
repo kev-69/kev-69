@@ -19,8 +19,8 @@ AI & ML Tools
 🔥 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kev-69&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"> </p>
 
-💬 Let's Connect!
+💬 Let's Connect! <br />
 📧 Email: bismarkobuobi19@gmail.com
-🔗 LinkedIn: linkedin.com/in/bismark-obuobi-5a473730a
-Twitter: https://x.com/statuscode_200?s=11
-Portfolio: bismarkobuobi.live
+🔗 LinkedIn: https://linkedin.com/in/bismark-obuobi-5a473730a
+Twitter: https://x.com/statuscode_200?s=11 <br />
+Portfolio: https://bismarkobuobi.live
